@@ -18,7 +18,6 @@ function App() {
             <h4>{user.website}</h4>
             <h5>{user.company.name}</h5>
             <h6>{user.company.catchPhrase}</h6>
-            <p>{user.company.bs}</p>
           </div>
         );
       })}
